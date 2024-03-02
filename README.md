@@ -1,4 +1,4 @@
-# HTBSRMIST_Recruitment_CTF_Writeup
+# HTBSRMIST Recruitments '24 Write-Ups
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1191/1*Eq2z6OoROOZgnfEsy_Tivw.png" />
 </p>
