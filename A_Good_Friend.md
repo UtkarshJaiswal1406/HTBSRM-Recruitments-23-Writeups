@@ -18,4 +18,6 @@ Now we search this coordinates in GMaps and find that this is a location in Conn
 
 Clicking closeby to the marker, we can see a location pop up called Central Park. The original question statement mentioned Abhinav's ability to clearly remember routes to all the **parks** and cafes.
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8jpFB5V/chrome-Cvr0-TZCXh-R.png" alt="chrome-Cvr0-TZCXh-R" border="0"></a>
+
 Hence we have our flag ```HTBSRMIST{Central Park}```
