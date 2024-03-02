@@ -22,4 +22,4 @@ Table of contents:
 - Soul Reaper
 - Traffic
 - Cracked Up Crown
-- Allowe or Not
+- Allowed or Not
